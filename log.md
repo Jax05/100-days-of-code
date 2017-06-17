@@ -16,5 +16,5 @@
 
 **Thoughts** Work consisted of leaving at 08:00 and getting home at 19:00.  Dinner + dishes completed at 20:15.  Started coding at just before 23:00 after prep being done for volunteer work tomorrow.  Need to be up at 05:15 and meeting people at 06:00.  Tomorrow's me is going to curse todays me.  I can catch up on sleep sometime tomorrow!  Consistency is key and can't drop the coding ball too early.
 
-**Link(s) to work**
+**Link(s) to work**: 
 Developed locally, so no links today.  When progress is made, server is setup I'll start linking results.
