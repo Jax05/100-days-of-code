@@ -1,20 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 0: June 15, 2017, Thursday
+### Day 1: June 21, 2017, Wednesday
 
-**Today's Progress**: I completed building my Hackintosh, Registered my domain at http://www.fullstopcoding.com, created twitter account @FullstopCoding, as well as created a new email address, fullstopcoding(@)gmail.com, and created this GitHub account to begin the journey.
+**Today's Progress**: Learned about git/github and how to push/pull/branch/merge/clone/commit/and how to properly comment.  One of my first experiences actively using version control even though I had been introduced to it a while ago.
+**Thoughts** Still trying to understand how often I should commit my content.  Unsure if I should create branches of my own code for learning exercises or just commit to my master branch.  Seems reasonable to develop good habits early.
 
-**Thoughts** I fell off the wagon a bit, but I'm back.
+### Day 2: June 22, 2017, Thursday
 
-**Link(s) to work**
-1. [FullstopCoding.com](http://www.fullstopcoding.com)
-2. [@FullstopCoding](https://twitter.com/FullstopCoding)
+**Today's Progress**: Even though I'm writing this at 11:26pm, I woke up at 5:30am, bright eyed and bushy tailed to begin learning before a long work day.  Spent the am coding jQuery and working on my CSS.  Did some FreeCodeCamp tutorials and exercises.  Still breezing through, need to work on my JavaScript.  I also want to check out the Net Ninja's tutorials on what seems to be the MEAN stack.  Also want to get through some of the Bootstrap stuff.  Even though it's straight forward I should be using it more.
 
-### Day 1: June 16, 2017, Friday
+**Links**
 
-**Today's Progress**: Today I started working on a very simple homepage to house more upcoming projects.  Home/About/Projects/Contact.  I had colours picked from the work done yesterday on the logo/twitter, so I'll be using similar colours for the project.  Most work was being done in the CSS, but we are still at early days on the HTML.
-
-**Thoughts** Work consisted of leaving at 08:00 and getting home at 19:00.  Dinner + dishes completed at 20:15.  Started coding at just before 23:00 after prep being done for volunteer work tomorrow.  Need to be up at 05:15 and meeting people at 06:00.  Tomorrow's me is going to curse todays me.  I can catch up on sleep sometime tomorrow!  Consistency is key and can't drop the coding ball too early.
-
-**Link(s) to work**: 
-Developed locally, so no links today.  When progress is made, server is setup I'll start linking results.
+1. [The Net Ninja](https://www.thenetninja.co.uk)
