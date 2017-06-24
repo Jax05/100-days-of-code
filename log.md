@@ -12,3 +12,12 @@
 **Links**
 
 1. [The Net Ninja](https://www.thenetninja.co.uk)
+
+### Day 3: June 23, 2017, Friday
+
+**Today's Progress**: Went through FreeCodeCamp's first two projects.  "Build a Tribute Page" and "Build a Personal Portfolio Webpage".  Started onto the Basic Javascript tutorials.  Tomorrow I'll be volunteering at a Bike Rodeo, and then at a multicultural festival.  Shift looks to be 12:30pm to 20:00.  I'll wake up early to get some coding time in before I head off to "work".
+
+**Links**
+
+1. [Build a Tribute Page](https://codepen.io/fullstopcoding/pen/EXvOLz)
+2. [Build a Personal Portfolio Webpage](https://codepen.io/fullstopcoding/pen/JJyeej)
