@@ -29,3 +29,7 @@
 **Links**
 
 1. [Twitch](https://www.twitch.tv/fullstopcoding)
+
+### Day 5: June 25, 2017, Sunday
+
+**Today's Progress**: Went through FreeCodeCamp's exercises, up to [230].  Heading out for volunteering from 9:30 to 11:30.  Home for lunch and then more coding later.
