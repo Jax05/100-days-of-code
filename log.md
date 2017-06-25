@@ -24,7 +24,7 @@
 
 ### Day 4: June 24, 2017, Saturday
 
-**Today's Progress**: Went through FreeCodeCamp's exercises, up to [193] in terms of exercise progress.  Getting ready to go to Bike Rodeo + Multicultural Festival.  Should be home around 21:00, I'll commit in my brain to code again before 24:00.  Began first twitch stream for my coding journey.
+**Today's Progress**: Went through FreeCodeCamp's exercises, up to [193] in terms of exercise progress.  Getting ready to go to Bike Rodeo + Multicultural Festival.  Should be home around 21:00, I'll commit in my brain to code again before 24:00.  Began first twitch stream for my coding journey.  Continued on after 20:30, finished up at [216] challenges completed.  Will resume tomorrow!
 
 **Links**
 
