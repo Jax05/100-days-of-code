@@ -32,4 +32,8 @@
 
 ### Day 5: June 25, 2017, Sunday
 
-**Today's Progress**: Went through FreeCodeCamp's exercises, up to [230].  Heading out for volunteering from 9:30 to 11:30.  Home for lunch and then more coding later.
+**Today's Progress**: Went through FreeCodeCamp's exercises, up to [230].  Heading out for volunteering from 9:30 to 11:30.  Home for lunch and then more coding later.  Picked up coding again at 12:42 and continued until 19:56.  Completed up to exercise [249].  I'll begin again tomorrow in the AM for a full day of coding!  On vacation this coming week.
+
+**Links**
+
+1. [MDN](https://developer.mozilla.org/en-US/)
