@@ -37,3 +37,17 @@
 **Links**
 
 1. [MDN](https://developer.mozilla.org/en-US/)
+
+### Day 6: June 25, 2017, Monday->Tuesday
+
+**Today's Progress**: Went through FreeCodeCamp's exercises, up to [263].  Started coding at 07:00.  Took lunch around 14:00.  Ended up streaming until 00:37 on Tuesday.
+
+Total stream uptime of 17~ish hours.  Completed the Random Quote Generator exercise on FCC.  Spent far too much time fighting CodePen trying to figure out why it refused to send my GET requests back on my API calls.  Watched a fantastic video by Stephen Mayeux called "What the heck are APIs, JSON, and AJAX?" that really explained GET requests a lot better, and how to properly structure an ajax request.
+
+I also learned it's important to place https://crossorigin.me/ on the front of my requests for CodePen so they resolve correctly.  I plan on waking up early tomorrow and completing the "Show the Local Weather" challenge.
+
+**Links**
+
+1. [Free Code Camp - Random Quote Generator](https://codepen.io/fullstopcoding/full/MoENyZ/)
+2. [Stephen Mayeux's Website](http://stephenmayeux.com/)
+3. [What the heck are APIs, JSON, and AJAX?](https://www.youtube.com/watch?v=Le5L7tdzZd8)
