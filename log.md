@@ -62,7 +62,9 @@ Final update for the day.  Started coding my "Use the TwitchTV JSON API" project
 
 There is a big temptation to go back and "fix" my old projects to change them from what they were into what I think they currently should be.  I think maybe at the end I may go through and visit each project with a "2.0" version of it, but still keep the 1.0 for historical reference.  Managed to get a total of 13:30 hours in total stream time today.  Not as much as the 17 hour shift yesterday, but going to bed at 02:00 and waking up at 07:00 to start coding again was maybe a misstep, but I was up...so what else to do but code.
 
-Full night of sleep and hit the stream tomorrow with some more "questionable quality" coding until I get better.
+Full night of sleep and hit the stream tomorrow with some more "questionable quality" coding until I get better.  Almost forgot...finished up to exercise [266] of FreeCodeCamp!
+
+**Update** to yesterday's comments regarding https://crossorigin.me/.  It was me.  My ajax request had datatype, and not dataType.  case matters!
 
 **Links**
 
