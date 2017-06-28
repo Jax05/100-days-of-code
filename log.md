@@ -51,3 +51,21 @@ I also learned it's important to place https://crossorigin.me/ on the front of m
 1. [Free Code Camp - Random Quote Generator](https://codepen.io/fullstopcoding/full/MoENyZ/)
 2. [Stephen Mayeux's Website](http://stephenmayeux.com/)
 3. [What the heck are APIs, JSON, and AJAX?](https://www.youtube.com/watch?v=Le5L7tdzZd8)
+
+### Day 7: June 26, 2017, Tuesday
+
+**Today's Progress**: Began streaming at 07:30.  Working on "Show the Local Weather" project.  Just have to finish the images and clean up the code a bit.  Finished the "Show the Local Weather" project at 10:43 with assistance from my stream (thanks CodingHobby) fixing my somewhat broken JSONP request (case sensitivity matters), as well as apparently you can have too many semicolons when passing them in as variables to a CSS property (don't need 'em! Who knew!).  Took a short break and now going to start coding the Wikipedia viewer!
+
+Finished coding the Wikipedia viewer at around 18:30.  Had dinner, took the wife for ice cream, and now I'm back to coding again until I'm too exhausted to code anymore!
+
+Final update for the day.  Started coding my "Use the TwitchTV JSON API" project.  I got most of the design work done today.  All is left to do is go through tomorrow and update the JavaScript functionality.  Easy task I suppose, but I'm finding with each project I'm completing from start to finish my code is getting a lot cleaner.
+
+There is a big temptation to go back and "fix" my old projects to change them from what they were into what I think they currently should be.  I think maybe at the end I may go through and visit each project with a "2.0" version of it, but still keep the 1.0 for historical reference.  Managed to get a total of 13:30 hours in total stream time today.  Not as much as the 17 hour shift yesterday, but going to bed at 02:00 and waking up at 07:00 to start coding again was maybe a misstep, but I was up...so what else to do but code.
+
+Full night of sleep and hit the stream tomorrow with some more "questionable quality" coding until I get better.
+
+**Links**
+
+1. [Free Code Camp - Show the Local Weather](https://codepen.io/fullstopcoding/full/BZmNea/)
+2. [Free Code Camp - Build a Wikipedia Viewer](https://codepen.io/fullstopcoding/full/LLOmzp/)
+3. [Free Code Camp - Use the TwitchTV JSON API](https://codepen.io/fullstopcoding/pen/ZyaNpY/)
