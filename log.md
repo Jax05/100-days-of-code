@@ -71,3 +71,16 @@ Full night of sleep and hit the stream tomorrow with some more "questionable qua
 1. [Free Code Camp - Show the Local Weather](https://codepen.io/fullstopcoding/full/BZmNea/)
 2. [Free Code Camp - Build a Wikipedia Viewer](https://codepen.io/fullstopcoding/full/LLOmzp/)
 3. [Free Code Camp - Use the TwitchTV JSON API](https://codepen.io/fullstopcoding/pen/ZyaNpY/)
+
+### Day 8: June 27, 2017, Wednesday
+
+**Today's Progress**:
+
+Today's start is at 08:19.  Going to finish off the TwitchTV JSON API project and move onto the further JavaScript challenges.  Completed the "Use the TwitchTV JSON API" project at 16:07.  Moving onto "Intermediate Algorithm Scripting" exercises.
+Benefits of streaming include having users who are able to explain .filter() so even I can understand it.  Shoutout to Junicus for the assist.  Completed up to exercise [269] on FreeCodeCamp.  Wanted to get through the "Intermediate Algorithm Scripting"...lofty goals.  Back at it tomorrow in the early hours.  Streamed for 11:13 today!
+
+Note: Need to learn about the A part of AJAX and how to handle responses and store information on the success of a GET request into an array.
+
+**Links**
+
+1. [Free Code Camp - Use the TwitchTV JSON API](https://codepen.io/fullstopcoding/full/ZyaNpY/)
