@@ -38,7 +38,7 @@
 
 1. [MDN](https://developer.mozilla.org/en-US/)
 
-### Day 6: June 25, 2017, Monday->Tuesday
+### Day 6: June 26, 2017, Monday->Tuesday
 
 **Today's Progress**: Went through FreeCodeCamp's exercises, up to [263].  Started coding at 07:00.  Took lunch around 14:00.  Ended up streaming until 00:37 on Tuesday.
 
@@ -52,7 +52,7 @@ I also learned it's important to place https://crossorigin.me/ on the front of m
 2. [Stephen Mayeux's Website](http://stephenmayeux.com/)
 3. [What the heck are APIs, JSON, and AJAX?](https://www.youtube.com/watch?v=Le5L7tdzZd8)
 
-### Day 7: June 26, 2017, Tuesday
+### Day 7: June 27, 2017, Tuesday
 
 **Today's Progress**: Began streaming at 07:30.  Working on "Show the Local Weather" project.  Just have to finish the images and clean up the code a bit.  Finished the "Show the Local Weather" project at 10:43 with assistance from my stream (thanks CodingHobby) fixing my somewhat broken JSONP request (case sensitivity matters), as well as apparently you can have too many semicolons when passing them in as variables to a CSS property (don't need 'em! Who knew!).  Took a short break and now going to start coding the Wikipedia viewer!
 
@@ -72,7 +72,7 @@ Full night of sleep and hit the stream tomorrow with some more "questionable qua
 2. [Free Code Camp - Build a Wikipedia Viewer](https://codepen.io/fullstopcoding/full/LLOmzp/)
 3. [Free Code Camp - Use the TwitchTV JSON API](https://codepen.io/fullstopcoding/pen/ZyaNpY/)
 
-### Day 8: June 27, 2017, Wednesday
+### Day 8: June 28, 2017, Wednesday
 
 **Today's Progress**:
 
@@ -84,3 +84,22 @@ Note: Need to learn about the A part of AJAX and how to handle responses and sto
 **Links**
 
 1. [Free Code Camp - Use the TwitchTV JSON API](https://codepen.io/fullstopcoding/full/ZyaNpY/)
+
+### Day 9: June 29, 2017, Thursday->Friday
+
+**Today's Progress**:
+
+Today's start is at 09:48.  Little bit later, but still plan a 12h shift.  Goals for today include getting through the "Intermediate Algorithm Scripting" as far as I can and maybe checking out some videos and reading on some of my terrible CSS.  Have to pick up some new design skills along with all this JavaScript.
+
+The goals of attempting to finish the "Intermediate Algorithm Scripting" challenges were a complete failure.  I've decided to transition into the Beta version of Free Code Camp which focus' slightly more on newer technologies.  I've already upped my CSS game and learned quite a bit about Flexbox by spending far too much time on a much newer "Build a Tribute Page" first project you're given.
+
+Things learned:  Some CSS animation, proper HTML5 tag usage(main, article, section, nav, header, footer, etc), accessibility options (tabindex, links, forms, etc).
+
+Completed up to [173] of the new beta curriculum, and going to continue to focus on this path until I can up my JavaScript game.
+
+Managed to get in a total of 16:30 minutes of streaming today.  Long day, and even longer one planned tomorrow.  Tomorrow me has to work on accessibility as well as passing all the test cases for the Tribute page project.
+
+**Links**
+
+1. [Free Code Camp - Beta website](https://beta.freecodecamp.com/en/map)
+2. [beta - Web Design Projects: Build a Tribute Page](https://codepen.io/fullstopcoding/pen/pwadXe)
