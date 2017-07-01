@@ -103,3 +103,25 @@ Managed to get in a total of 16:30 minutes of streaming today.  Long day, and ev
 
 1. [Free Code Camp - Beta website](https://beta.freecodecamp.com/en/map)
 2. [beta - Web Design Projects: Build a Tribute Page](https://codepen.io/fullstopcoding/pen/pwadXe)
+
+### Day 10: June 30, 2017, Friday
+
+**Today's Progress**:
+
+Today's start is at 10:48.  Goals for today include to work on accessibility for the Tribute page as well as passing all the test cases for the Tribute page project.  Finished the "Build a Tribute Page" at 13:10.  Moving on to "Build a Survey Form" challenge.  Finished "Build a Survey Form" at 18:54.
+
+19:16 began work on "Build a Product Landing Page".  Finished up at 03:01 on Saturday.  Managed to get a total of 16:30 hours in streaming today.  Learned quite a bit in terms of improving my CSS skills.  I am more comfortable in terms of using flexbox to position items on the screen.  Trying to use more material design concepts as well in terms of my colours.  I also really enjoy the Google Fonts website.  It gets me what I need really quickly.  Big shoutout to my stream for getting me setup with a ton of advice, assists on code, and generally being awesome.  Was a very productive day once again.
+
+**Resources**
+
+1. [sankk.in / material mixer](https://www.sankk.in/material-mixer/#css)
+2. [canva.com / font combinations](https://www.canva.com/font-combinations/)
+3. [Google Fonts](https://fonts.google.com)
+4. [cssreference.io / for flexbox](http://cssreference.io/)
+5. [palettable.io / for helping pick some fun colours](http://www.palettable.io)
+
+**Links**
+
+1. [beta - Web Design Projects: Build a Tribute Page](https://codepen.io/fullstopcoding/full/pwadXe/)
+2. [beta - Web Design Projects: Build a Survey Form](https://codepen.io/fullstopcoding/full/eRVwNJ/)
+3. [beta - Web Design Projects: Build a Product Landing Page](https://codepen.io/fullstopcoding/full/BZrNjw/)
