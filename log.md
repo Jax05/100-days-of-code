@@ -7,7 +7,7 @@
 
 ### Day 2: June 22, 2017, Thursday
 
-**Today's Progress**: Even though I'm writing this at 11:26pm, I woke up at 5:30am, bright eyed and bushy tailed to begin learning before a long work day.  Spent the am coding jQuery and working on my CSS.  Did some FreeCodeCamp tutorials and exercises.  Still breezing through, need to work on my JavaScript.  I also want to check out the Net Ninja's tutorials on what seems to be the MEAN stack.  Also want to get through some of the Bootstrap stuff.  Even though it's straight forward I should be using it more.
+**Today's Progress**: Even though I'm writing this at 11:26pm, I woke up at 5:30am, bright eyed and bushy tailed to begin learning before a long work day.  Spent the am coding jQuery and working on my CSS.  Did some freeCodeCamp tutorials and exercises.  Still breezing through, need to work on my JavaScript.  I also want to check out the Net Ninja's tutorials on what seems to be the MEAN stack.  Also want to get through some of the Bootstrap stuff.  Even though it's straight forward I should be using it more.
 
 **Links**
 
@@ -15,7 +15,7 @@
 
 ### Day 3: June 23, 2017, Friday
 
-**Today's Progress**: Went through FreeCodeCamp's first two projects.  "Build a Tribute Page" and "Build a Personal Portfolio Webpage".  Started onto the Basic Javascript tutorials.  Tomorrow I'll be volunteering at a Bike Rodeo, and then at a multicultural festival.  Shift looks to be 12:30pm to 20:00.  I'll wake up early to get some coding time in before I head off to "work".  Also properlyl configured my laptop to have my git user credentials.
+**Today's Progress**: Went through freeCodeCamp's first two projects.  "Build a Tribute Page" and "Build a Personal Portfolio Webpage".  Started onto the Basic Javascript tutorials.  Tomorrow I'll be volunteering at a Bike Rodeo, and then at a multicultural festival.  Shift looks to be 12:30pm to 20:00.  I'll wake up early to get some coding time in before I head off to "work".  Also properlyl configured my laptop to have my git user credentials.
 
 **Links**
 
@@ -24,7 +24,7 @@
 
 ### Day 4: June 24, 2017, Saturday
 
-**Today's Progress**: Went through FreeCodeCamp's exercises, up to [193] in terms of exercise progress.  Getting ready to go to Bike Rodeo + Multicultural Festival.  Should be home around 21:00, I'll commit in my brain to code again before 24:00.  Began first twitch stream for my coding journey.  Continued on after 20:30, finished up at [216] challenges completed.  Will resume tomorrow!
+**Today's Progress**: Went through freeCodeCamp's exercises, up to [193] in terms of exercise progress.  Getting ready to go to Bike Rodeo + Multicultural Festival.  Should be home around 21:00, I'll commit in my brain to code again before 24:00.  Began first twitch stream for my coding journey.  Continued on after 20:30, finished up at [216] challenges completed.  Will resume tomorrow!
 
 **Links**
 
@@ -32,7 +32,7 @@
 
 ### Day 5: June 25, 2017, Sunday
 
-**Today's Progress**: Went through FreeCodeCamp's exercises, up to [230].  Heading out for volunteering from 9:30 to 11:30.  Home for lunch and then more coding later.  Picked up coding again at 12:42 and continued until 19:56.  Completed up to exercise [249].  I'll begin again tomorrow in the AM for a full day of coding!  On vacation this coming week.
+**Today's Progress**: Went through freeCodeCamp's exercises, up to [230].  Heading out for volunteering from 9:30 to 11:30.  Home for lunch and then more coding later.  Picked up coding again at 12:42 and continued until 19:56.  Completed up to exercise [249].  I'll begin again tomorrow in the AM for a full day of coding!  On vacation this coming week.
 
 **Links**
 
@@ -40,7 +40,7 @@
 
 ### Day 6: June 26, 2017, Monday->Tuesday
 
-**Today's Progress**: Went through FreeCodeCamp's exercises, up to [263].  Started coding at 07:00.  Took lunch around 14:00.  Ended up streaming until 00:37 on Tuesday.
+**Today's Progress**: Went through freeCodeCamp's exercises, up to [263].  Started coding at 07:00.  Took lunch around 14:00.  Ended up streaming until 00:37 on Tuesday.
 
 Total stream uptime of 17~ish hours.  Completed the Random Quote Generator exercise on FCC.  Spent far too much time fighting CodePen trying to figure out why it refused to send my GET requests back on my API calls.  Watched a fantastic video by Stephen Mayeux called "What the heck are APIs, JSON, and AJAX?" that really explained GET requests a lot better, and how to properly structure an ajax request.
 
@@ -62,7 +62,7 @@ Final update for the day.  Started coding my "Use the TwitchTV JSON API" project
 
 There is a big temptation to go back and "fix" my old projects to change them from what they were into what I think they currently should be.  I think maybe at the end I may go through and visit each project with a "2.0" version of it, but still keep the 1.0 for historical reference.  Managed to get a total of 13:30 hours in total stream time today.  Not as much as the 17 hour shift yesterday, but going to bed at 02:00 and waking up at 07:00 to start coding again was maybe a misstep, but I was up...so what else to do but code.
 
-Full night of sleep and hit the stream tomorrow with some more "questionable quality" coding until I get better.  Almost forgot...finished up to exercise [266] of FreeCodeCamp!
+Full night of sleep and hit the stream tomorrow with some more "questionable quality" coding until I get better.  Almost forgot...finished up to exercise [266] of freeCodeCamp!
 
 **Update** to yesterday's comments regarding https://crossorigin.me/.  It was me.  My ajax request had datatype, and not dataType.  case matters!
 
@@ -77,7 +77,7 @@ Full night of sleep and hit the stream tomorrow with some more "questionable qua
 **Today's Progress**:
 
 Today's start is at 08:19.  Going to finish off the TwitchTV JSON API project and move onto the further JavaScript challenges.  Completed the "Use the TwitchTV JSON API" project at 16:07.  Moving onto "Intermediate Algorithm Scripting" exercises.
-Benefits of streaming include having users who are able to explain .filter() so even I can understand it.  Shoutout to Junicus for the assist.  Completed up to exercise [269] on FreeCodeCamp.  Wanted to get through the "Intermediate Algorithm Scripting"...lofty goals.  Back at it tomorrow in the early hours.  Streamed for 11:13 today!
+Benefits of streaming include having users who are able to explain .filter() so even I can understand it.  Shoutout to Junicus for the assist.  Completed up to exercise [269] on freeCodeCamp.  Wanted to get through the "Intermediate Algorithm Scripting"...lofty goals.  Back at it tomorrow in the early hours.  Streamed for 11:13 today!
 
 Note: Need to learn about the A part of AJAX and how to handle responses and store information on the success of a GET request into an array.
 
@@ -101,7 +101,7 @@ Managed to get in a total of 16:30 minutes of streaming today.  Long day, and ev
 
 **Links**
 
-1. [Free Code Camp - Beta website](https://beta.freecodecamp.com/en/map)
+1. [Free Code Camp - Beta website](https://beta.freeCodeCamp.com/en/map)
 2. [beta - Web Design Projects: Build a Tribute Page](https://codepen.io/fullstopcoding/pen/pwadXe)
 
 ### Day 10: June 30, 2017, Friday
@@ -125,3 +125,20 @@ Today's start is at 10:48.  Goals for today include to work on accessibility for
 1. [beta - Web Design Projects: Build a Tribute Page](https://codepen.io/fullstopcoding/full/pwadXe/)
 2. [beta - Web Design Projects: Build a Survey Form](https://codepen.io/fullstopcoding/full/eRVwNJ/)
 3. [beta - Web Design Projects: Build a Product Landing Page](https://codepen.io/fullstopcoding/full/BZrNjw/)
+
+### Day 11: July 1, 2017, Saturday
+
+**Today's Progress**:
+
+Today's start is at 11:07.  Goals for today include finishing the "Build a Technical Documentation Page" as well as the "Build a Personal Portfolio Webpage".  Finished the "Build a Technical Documentation Page" at 20:54.  Taking some time to go watch the Canada Day fireworks for the 150th birthday of my country.  Tomorrow I'll finish off the "Build a Personal Portfolio Webpage" project before having to go back to work for Monday.  Total stream time today was just over 10 hours.  Finished up to [177] of freeCodeCamp.
+
+**Resources **
+
+1. [Figma](https://www.figma.com) - Collaborative design tool.
+2. [CollectUI](http://collectui.com/) - Design inspirations.
+3. [Web Developer Paths](https://coggle.it/diagram/52e97f8c5a143de239005d1b/56212c4e4c505e0045c0d3bda59b77e5977c2c9bd40f3fd0b451bdcf8da4aa52)
+4. [Sizzy.co](https://sizzy.co/) - View site in various media sizes.
+
+**Links**
+
+1. [beta - Build a Technical Documentation Page](https://codepen.io/fullstopcoding/full/vZRgXR/)
