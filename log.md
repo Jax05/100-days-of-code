@@ -15,7 +15,7 @@
 
 ### Day 3: June 23, 2017, Friday
 
-**Today's Progress**: Went through freeCodeCamp's first two projects.  "Build a Tribute Page" and "Build a Personal Portfolio Webpage".  Started onto the Basic Javascript tutorials.  Tomorrow I'll be volunteering at a Bike Rodeo, and then at a multicultural festival.  Shift looks to be 12:30pm to 20:00.  I'll wake up early to get some coding time in before I head off to "work".  Also properlyl configured my laptop to have my git user credentials.
+**Today's Progress**: Went through freeCodeCamp's first two projects.  "Build a Tribute Page" and "Build a Personal Portfolio Webpage".  Started onto the Basic Javascript tutorials.  Tomorrow I'll be volunteering at a Bike Rodeo, and then at a multicultural festival.  Shift looks to be 12:30pm to 20:00.  I'll wake up early to get some coding time in before I head off to "work".  Also properly configured my laptop to have my git user credentials.
 
 **Links**
 
@@ -97,7 +97,7 @@ Things learned:  Some CSS animation, proper HTML5 tag usage(main, article, secti
 
 Completed up to [173] of the new beta curriculum, and going to continue to focus on this path until I can up my JavaScript game.
 
-Managed to get in a total of 16:30 minutes of streaming today.  Long day, and even longer one planned tomorrow.  Tomorrow me has to work on accessibility as well as passing all the test cases for the Tribute page project.
+Managed to get in a total of 16:30 hours of streaming today.  Long day, and even longer one planned tomorrow.  Tomorrow me has to work on accessibility as well as passing all the test cases for the Tribute page project.
 
 **Links**
 
@@ -147,7 +147,9 @@ Today's start is at 11:07.  Goals for today include finishing the "Build a Techn
 
 **Today's Progress**:
 
-Today's start is at 10:28.  Goals for today include finishing the "Build a Personal Portfolio Webpage". Learned something new today.  When selecting a font on Google Fonts, you can customize it so that you get the Light/Regular/Bold options!  Finished the "Build a Personal Portfolio Webpage" project at 15:37, 9 minutes over the target I had set for myself (left @media queries until the last minute..."I don't need media queries! My page is fully responsive!" - Me). After "receiving" my "Responsive Web Design Certificate" I powered on throughout the rest of the beta freeCodeCamp exercises. Completing the "Beginner JavaScript" and partially completing the ES6 exercises.  Up to [294] of the new beta content and enjoying myself immensely.
+Today's start is at 10:28.  Goals for today include finishing the "Build a Personal Portfolio Webpage". Learned something new today.  When selecting a font on Google Fonts, you can customize it so that you get the Light/Regular/Bold options!  Finished the "Build a Personal Portfolio Webpage" project at 15:37, 9 minutes over the target I had set for myself (left @media queries until the last minute..."I don't need media queries! My page is fully responsive!" - Me). After "receiving" my "Responsive Web Design Certificate" I powered on throughout the rest of the beta freeCodeCamp exercises. Completing the "Beginner JavaScript" and partially completing the ES6 exercises.  Up to [294] of the new beta content and enjoying myself immensely.  Streamed for a total of just over 13 hours.  Completed coding at 23:45.
+
+Total hours streamed:  111.5 since June 24th.  Time to go back to work.
 
 **Notes**
 
