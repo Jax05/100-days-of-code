@@ -142,3 +142,17 @@ Today's start is at 11:07.  Goals for today include finishing the "Build a Techn
 **Links**
 
 1. [beta - Build a Technical Documentation Page](https://codepen.io/fullstopcoding/full/vZRgXR/)
+
+### Day 12: July 2, 2017, Sunday
+
+**Today's Progress**:
+
+Today's start is at 10:28.  Goals for today include finishing the "Build a Personal Portfolio Webpage". Learned something new today.  When selecting a font on Google Fonts, you can customize it so that you get the Light/Regular/Bold options!  Finished the "Build a Personal Portfolio Webpage" project at 15:37, 9 minutes over the target I had set for myself (left @media queries until the last minute..."I don't need media queries! My page is fully responsive!" - Me). After "receiving" my "Responsive Web Design Certificate" I powered on throughout the rest of the beta freeCodeCamp exercises. Completing the "Beginner JavaScript" and partially completing the ES6 exercises.  Up to [294] of the new beta content and enjoying myself immensely.
+
+**Notes**
+
+Talk to Quincy about how he told me I'm supposed to use all caps with consts, but in his examples he doesn't have to use CAPS FOR CONSTS.
+
+**Links**
+
+1. [beta - Build a Personal Portfolio Webpage](https://codepen.io/fullstopcoding/full/awYjzZ/)
