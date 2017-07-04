@@ -158,3 +158,11 @@ Talk to Quincy about how he told me I'm supposed to use all caps with consts, bu
 **Links**
 
 1. [beta - Build a Personal Portfolio Webpage](https://codepen.io/fullstopcoding/full/awYjzZ/)
+
+### Day 13: July 3, 2017, Monday
+
+**Today's Progress**:
+
+Today's start is at 19:56.  Finished up the stream at 23:23.  Completed up to freeCodeCamp exercise [307] before finally deciding tha maybe I should find an alternative resource for learning ES6 as a lot of the test cases were passing false positives and it was mostly chat (shoutout to Chewtoy, JUBAN_3, and Junicus for the assists) that was correcting what I even knew was poor code.  I'll have to investigate how I'll continue my learning sometime tomorrow afternoon.
+
+Things learned: this goes up one scope.
