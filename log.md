@@ -166,3 +166,9 @@ Talk to Quincy about how he told me I'm supposed to use all caps with consts, bu
 Today's start is at 19:56.  Finished up the stream at 23:23.  Completed up to freeCodeCamp exercise [307] before finally deciding tha maybe I should find an alternative resource for learning ES6 as a lot of the test cases were passing false positives and it was mostly chat (shoutout to Chewtoy, JUBAN_3, and Junicus for the assists) that was correcting what I even knew was poor code.  I'll have to investigate how I'll continue my learning sometime tomorrow afternoon.
 
 Things learned: this goes up one scope.
+
+### Day 14: July 4, 2017, Tuesday
+
+**Today's Progress**:
+
+Today's start is at 19:41. Finished off the Regex exercises on freeCodeCamp.  Biggest win was being able to pull out trailing whitespaces from stuff.  Finished up with 5 hours of streaming today.  Plan on moving on to "Basic Data Structures" and "Debugging" tomorrow with freeCodeCamp.  Really fearing the "Intermediate Algorithm Challenges" that are coming up, but I'm hoping to improve my JavaScript before I get to that point.  The ES6 portion of the freeCodeCamp beta, although interesting, was giving me false positives on my bad code, and no fault of freeCodeCamp themselves, it's a beta and my expectations should be as such.  Finished up to exercise [339] on freeCodeCamp.
