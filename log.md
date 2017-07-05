@@ -172,3 +172,7 @@ Things learned: this goes up one scope.
 **Today's Progress**:
 
 Today's start is at 19:41. Finished off the Regex exercises on freeCodeCamp.  Biggest win was being able to pull out trailing whitespaces from stuff.  Finished up with 5 hours of streaming today.  Plan on moving on to "Basic Data Structures" and "Debugging" tomorrow with freeCodeCamp.  Really fearing the "Intermediate Algorithm Challenges" that are coming up, but I'm hoping to improve my JavaScript before I get to that point.  The ES6 portion of the freeCodeCamp beta, although interesting, was giving me false positives on my bad code, and no fault of freeCodeCamp themselves, it's a beta and my expectations should be as such.  Finished up to exercise [339] on freeCodeCamp.
+
+**Links**
+
+1. [Regexr](http://regexr.com/) - tool for assisting with writing regex expressions.
