@@ -176,3 +176,9 @@ Today's start is at 19:41. Finished off the Regex exercises on freeCodeCamp.  Bi
 **Links**
 
 1. [Regexr](http://regexr.com/) - tool for assisting with writing regex expressions.
+
+### Day 15: July 5, 2017, Wednesday
+
+**Today's Progress**:
+
+Today's start is at 20:00.  Filling this in on July 6th as I didn't get time to complete on the 5th.  Ended early to get ready for a possible mentor/mentee interview that I have on July 6th under a full stack developer at work.  Meeting at 15:30 to discuss possibility of this opportunity.  Job posting that came out fell in line with my previous skillset at work, and I would like to further develop so that I could join the team in the future.  Completed up to freeCodeCamp exercise [347] in "Basic Data Structures".
