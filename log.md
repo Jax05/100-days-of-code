@@ -182,3 +182,25 @@ Today's start is at 19:41. Finished off the Regex exercises on freeCodeCamp.  Bi
 **Today's Progress**:
 
 Today's start is at 20:00.  Filling this in on July 6th as I didn't get time to complete on the 5th.  Ended early to get ready for a possible mentor/mentee interview that I have on July 6th under a full stack developer at work.  Meeting at 15:30 to discuss possibility of this opportunity.  Job posting that came out fell in line with my previous skillset at work, and I would like to further develop so that I could join the team in the future.  Completed up to freeCodeCamp exercise [347] in "Basic Data Structures".
+
+### Day 16: July 6, 2017, Thursday
+
+**Today's Progress**:
+
+Today's start is at 19:40.  Had an interview today in regards to a mentorship at my company under a Full Stack coder.  It was quite successful and I have a meeting next Wednesday to outline my requirements as well as what I can provide to the team.  It looks as if they'll be getting me setup inside their system so that I can take on some projects.  As it turns out, this is actually a project that I pitched to the company over 10 years ago at a meeting with some project managers who went on to create the project based on my requirements, but I was unfortunately never a part of.  How interesting that it has come full circle.
+
+I got my first "family member" of the stream (aka subscriber) in the user h3xt0sis who has been watching me progress.  Felt pretty good about.
+
+Today's learning came from StarGazer1258.  The dev tools is more than just for inspecting elements of your webpage and also checking out the errors I'm throwing to console, there is a little button at the top which looks like a Phone, which you can look at the mobile view instead of having to go to Sizzy.co, but I still love Sizzy.
+
+This tool is pretty awesome though.  ^5 StarGazer1258.
+
+Completed up to [376] of the beta freeCodeCamp exercises.  Finished the "Debugging", "Basic Data Structures", and started on the "Basic Algorithm Scripting" challenges before I decided to call the stream at 23:30.  Woke up at 04:30 this morning, so it seems like the prudent thing to do.
+
+I was very successful today and look forward to what tomorrow brings!
+
+We also learned of a new tool! CSSmatic, which is great for helping generate some CSS visually.  I mentioned that I enjoy stealing others material design shadows, so this is a link that's provided so I can quickly get the feedback on the visual I'm going for in terms of my drop shadow.  Thanks to StarGazer1258 for the assist on that one!
+
+**Links**
+
+1. [CSSmatic](http://www.cssmatic.com/)
