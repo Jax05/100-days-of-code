@@ -7,7 +7,7 @@
 **Feelings/Thoughts**: I'm a little disappointed I got a late start today. I'll make up for it by starting earlier tomorrow.
 
 **Sites I'm Using**:
-[Learn.co from Flatiron School](https://www.learn.co)
+[Learn.co from Flatiron School](https://www.learn.co) <br />
 [FreeCodeCamp Beta Site](https://beta.freecodecamp.com)
 
 ### Day 2: July 8th, 2017, Saturday
