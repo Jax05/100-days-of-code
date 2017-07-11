@@ -6,7 +6,7 @@
 
 **Feelings/Thoughts**: I'm a little disappointed I got a late start today. I'll make up for it by starting earlier tomorrow.
 
-**Sites I'm Using**:
+**Sites I'm Using**: <br />
 [Learn.co from Flatiron School](https://www.learn.co) <br />
 [FreeCodeCamp Beta Site](https://beta.freecodecamp.com)
 
