@@ -25,3 +25,7 @@
 **Progress Today**: I started coding on FreeCodeCamp when I got home from work. Today I finished the Applied Visual Design section and learned how to transform and animate elements. I've completed up to challenge [126] on that site. Afterward, I logged into Learn.co and wrapped up the Responsive Design section as well. I'm officially done with the basic HTML and CSS part of the curriculum. Now it's on to Procedural Ruby!
 
 **Feelings/Thoughts**: I feel like I have a pretty good understanding of Bootstrap and how to make responsive sites. I'm planning on practicing my skills in the near future. I came up with a few project ideas I'd like to complete. All in all, today was a good day.
+
+### Day 5: July 11th, 2017, Tuesday
+
+**Progress Today**: I finished the first part of the Procedural Ruby section for Flatiron today. It was comprised of 6 labs and 7 lessons.
