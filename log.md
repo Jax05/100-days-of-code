@@ -29,3 +29,7 @@
 ### Day 5: July 11th, 2017, Tuesday
 
 **Progress Today**: I finished the first part of the Procedural Ruby section for Flatiron today. It was comprised of 6 labs and 7 lessons.
+
+### Day 6: July 14th, 2017, Friday
+
+**Progress Today**: Yes, I know I missed two days, and I'm not proud of it. I'm going to tack it on to the end of my 100 days to make up for it. Commitment is hard, remember? Today I did make quite a bit of progress though. On the beta site of FreeCodeCamp, I completed 17 challenges which brings my total to [143]. I was also able to finish three more parts of the Procedural Ruby section on Flatiron. They covered booleans, logic and conditionals, and loops over twelve lessons and six labs.
