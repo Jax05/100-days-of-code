@@ -33,3 +33,7 @@
 ### Day 6: July 14th, 2017, Friday
 
 **Progress Today**: Yes, I know I missed two days, and I'm not proud of it. I'm going to tack it on to the end of my 100 days to make up for it. Commitment is hard, remember? Today I did make quite a bit of progress though. On the beta site of FreeCodeCamp, I completed 17 challenges which brings my total to [143]. I was also able to finish three more parts of the Procedural Ruby section on Flatiron. They covered booleans, logic and conditionals, and loops over twelve lessons and six labs.
+
+### Day 7: July 15th, 2017, Saturday
+
+**Progress Today**: I worked on arrays and iteration today for Flatiron. I learned how to sort through arrays using the each method and how to change and store the data. It was somewhat a review on things I did about a month ago, but it's always nice to have a refresher. It's been a really busy, crazy week, so I'm glad I'm getting at least something done every day. It's only my first week so I'm sure I'll get more in the habit of coding every single day and doing something productive.
