@@ -37,3 +37,7 @@
 ### Day 7: July 15th, 2017, Saturday
 
 **Progress Today**: I worked on arrays and iteration today for Flatiron. I learned how to sort through arrays using the each method and how to change and store the data. It was somewhat a review on things I did about a month ago, but it's always nice to have a refresher. It's been a really busy, crazy week, so I'm glad I'm getting at least something done every day. It's only my first week so I'm sure I'll get more in the habit of coding every single day and doing something productive.
+
+### Day 8: July 16th, 2017, Sunday
+
+**Progress Today**: I worked a lot with iteration today. I decided to take a break on the lab I was working on last and look at it again another time with fresh eyes. It was a little frustrating, but I think I'll be able to finish it up tomorrow. I'll need to set aside an hour or two for some research before tackling it.
