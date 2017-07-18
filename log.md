@@ -41,3 +41,7 @@
 ### Day 8: July 16th, 2017, Sunday
 
 **Progress Today**: I worked a lot with iteration today. I decided to take a break on the lab I was working on last and look at it again another time with fresh eyes. It was a little frustrating, but I think I'll be able to finish it up tomorrow. I'll need to set aside an hour or two for some research before tackling it.
+
+### Day 9: July 17th, 2017, Monday
+
+**Progress Today**: Learned some CSS flexbox stuff today. I'm preparing to start working on portfolio projects within the next few days.
