@@ -1,14 +1,15 @@
 # 100 Days Of Code - Log
 
+**Sites I'm Using**: <br />
+[Learn.co from Flatiron School](https://www.learn.co) <br />
+[FreeCodeCamp Beta Site](https://beta.freecodecamp.com) <br />
+[Codecademy](https://www.codecademy.com)
+
 ### Day 1: July 7th, 2017, Friday
 
 **Progress Today**: I set up Git Bash today so I can use it and get more familiar with the commands. Spent way longer than needed fooling around with it before actually coding. I started off going through FreeCodeCamp's Responsive Web Design section since it's relevant to what I'm learning at Flatiron. I finished the HTML5 and CSS portions and have completed [73] challenges currently. After that, I moved on to Flatiron School's Full-Stack Web Developer curriculum and finished up the Responsive Layout portion. That particular section included some lessons and two labs - Adding Responsive Features and Animal Save. It basically taught how to use media queries so that your website looks good on any device.
 
 **Feelings/Thoughts**: I'm a little disappointed I got a late start today. I'll make up for it by starting earlier tomorrow.
-
-**Sites I'm Using**: <br />
-[Learn.co from Flatiron School](https://www.learn.co) <br />
-[FreeCodeCamp Beta Site](https://beta.freecodecamp.com)
 
 ### Day 2: July 8th, 2017, Saturday
 
@@ -45,3 +46,11 @@
 ### Day 9: July 17th, 2017, Monday
 
 **Progress Today**: Learned some CSS flexbox stuff today. I'm preparing to start working on portfolio projects within the next few days.
+
+### Day 10: July 18th, 2017, Tuesday
+
+**Progress Today**: Spent about 6-7 hours working on labs for Flatiron. This one in particular had me stumped for quite a while, but I ended up solving it and feeling really good.
+
+### Day 11: July 19th, 2017, Wednesday
+
+**Progress Today**: Honestly, I was pretty exhausted after work but decided I wasn't gonna miss another day of the challenge. I ended up finishing the CSS Flexbox section on FreeCodeCamp so now I'm ready for the Applied Responsive Web Design Projects which takes an estimated 150 hours (yeah right ha). I also worked on a lab for Flatiron and did some Ruby stuff on Codecademy.
